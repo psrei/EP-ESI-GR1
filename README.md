@@ -2,7 +2,7 @@
 
 Code Climate:
 
-GitHub Actions: [![Ruby on Rails CI](https://github.com/psrei/EP-ESI/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/psrei/EP-ESI/actions/workflows/rubyonrails.yml)
+GitHub Actions: [![Ruby](https://github.com/psrei/EP-ESI/actions/workflows/main.yml/badge.svg)](https://github.com/psrei/EP-ESI/actions/workflows/main.yml)
 
 Coveralls:
 
