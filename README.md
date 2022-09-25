@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Code Climate:
 
-Things you may want to cover:
+GitHub Actions: [![Ruby on Rails CI](https://github.com/psrei/EP-ESI/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/psrei/EP-ESI/actions/workflows/rubyonrails.yml)
 
-* Ruby version
+Coveralls:
 
-* System dependencies
+Heroku:
 
-* Configuration
+Pivotal Tracker:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Integrantes:
+  - Stefano Bisognin de Almeida
+  - Vinicius Yosimoto
+  - Vinicius Zacarias Lacerda Brito
+  - Reinaldo Pereira de Souza Neto
+  - Gabriel Assenco Ferreira de Siqueira
+  
+ Descrição do Software:
