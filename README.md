@@ -7,7 +7,7 @@ Code Climate: <a href="https://codeclimate.com/github/psrei/EP-ESI/maintainabili
 
 GitHub Actions: [![Ruby](https://github.com/psrei/EP-ESI/actions/workflows/main.yml/badge.svg)](https://github.com/psrei/EP-ESI/actions/workflows/main.yml)
 
-Coveralls:
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/psrei/EP-ESI-GR1/badge.svg?branch=main)](https://coveralls.io/github/psrei/EP-ESI-GR1?branch=main)
 
 ## Links relevantes
 

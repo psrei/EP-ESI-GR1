@@ -3,8 +3,11 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '3.0.2'
 
-#gem do rspec
+# gem do rspec
 gem 'rspec', '~> 3.0'
+
+# gem do coveralls
+gem 'coveralls', require: false
 
 #gem bundler-audity
 gem 'bundler-audit'
