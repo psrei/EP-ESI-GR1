@@ -11,7 +11,7 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/psrei/EP-ESI-GR
 
 ## Links relevantes
 
-Heroku:
+Heroku: https://correct-redacao.herokuapp.com/
 
 Pivotal Tracker:
 
