@@ -21,7 +21,7 @@ Este repositório abrange o Exercício Programa de Engenharia de Sistemas da Inf
 
 Os integrantes do grupo são os alunos de bacharel em Sistemas da Informação - EACH USP:
 
-  - Gabriel Assenco Ferreira de Siqueira
+  - Gabriel Assenço Ferreira de Siqueira
   - Reinaldo Pereira de Souza Neto
   - Stefano Bisognin de Almeida
   - Vinicius Yosimoto
