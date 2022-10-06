@@ -26,6 +26,7 @@ jobs:
       # change this to (see https://github.com/ruby/setup-ruby#versioning):
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: 3.1.2
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           
       - name: Setup Node 14
