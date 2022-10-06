@@ -13,7 +13,7 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/psrei/EP-ESI-GR
 
 Heroku: https://correct-redacao.herokuapp.com/
 
-Pivotal Tracker:
+Pivotal Tracker: https://www.pivotaltracker.com/invitations/welcome?invitation_guid=c7d52db2c1c78cdbc03d920633a4de64
 
 ## Sobre o Repositório
 
