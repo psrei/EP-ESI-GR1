@@ -6,11 +6,6 @@ ruby '3.0.2'
 # gem do rspec
 gem 'rspec', '~> 3.0'
 
-# gems para o coveralls
-gem 'coveralls', require: false
-gem 'simplecov',      require: false
-gem 'simplecov-lcov', require: false
-
 #gem bundler-audity
 gem 'bundler-audit'
 
@@ -64,6 +59,13 @@ end
 group :test do
   gem 'cucumber-rails', :require => false
   gem 'database_cleaner'
+end
+
+group :test do
+  # gems para o coveralls
+  gem 'coveralls', require: false
+  gem 'simplecov',      require: false
+  gem 'simplecov-lcov', require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
