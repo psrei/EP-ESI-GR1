@@ -6,8 +6,10 @@ ruby '3.0.2'
 # gem do rspec
 gem 'rspec', '~> 3.0'
 
-# gem do coveralls
+# gems para o coveralls
 gem 'coveralls', require: false
+gem 'simplecov',      require: false
+gem 'simplecov-lcov', require: false
 
 #gem bundler-audity
 gem 'bundler-audit'
