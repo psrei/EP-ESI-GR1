@@ -57,13 +57,8 @@ group :test do
 end
 
 group :test do
-  gem 'cucumber-rails', :require => false
+  gem 'cucumber-rails', require: false
   gem 'database_cleaner'
-end
-
-group :test do
-  # gems para o coveralls
-  gem 'coveralls', require: false
   gem 'simplecov',      require: false
   gem 'simplecov-lcov', require: false
 end
