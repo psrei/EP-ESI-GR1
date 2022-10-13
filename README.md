@@ -7,7 +7,7 @@ Code Climate: [![Maintainability](https://api.codeclimate.com/v1/badges/d4cc1708
 
 GitHub Actions: [![CI/CD](https://github.com/psrei/EP-ESI-GR1/actions/workflows/ci.yml/badge.svg)](https://github.com/psrei/EP-ESI-GR1/actions/workflows/ci.yml)
 
-Coveralls: 
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/psrei/EP-ESI-GR1/badge.svg?branch=main)](https://coveralls.io/github/psrei/EP-ESI-GR1?branch=main)
 
 ## Links relevantes
 
