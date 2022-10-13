@@ -1,3 +1,4 @@
+#Ainda não funcional, necessário rearranjar os GEMFILES
 @Registro
 Funcionalidade: Registro
     Eu como Usuário do Correct Redação
