@@ -1,10 +1,11 @@
-#Ainda não funcional, necessário rearranjar os GEMFILES
+#language: pt
+
 @Registro
 Funcionalidade: Registro
     Eu como Usuário do Correct Redação
     Posso me registrar
     Para Acessar o Correct Redação
-    
+  
     @RegistroBasico
     Cenário: Registro válido
         Dado que eu estou me registrando com minha informações válidas
