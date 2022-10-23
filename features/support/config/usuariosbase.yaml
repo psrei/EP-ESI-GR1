@@ -1,0 +1,9 @@
+---
+#nao-implementado
+usuarios:
+  adm: "adm"
+  admSenha: "123"
+  aluno: "aluno"
+  alunoSenha: "123"
+  professor: "professor"
+  professorSenha: "123"

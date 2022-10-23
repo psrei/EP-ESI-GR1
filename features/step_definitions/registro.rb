@@ -7,5 +7,6 @@ Quando('finalizar a inserção dos dados') do
 end
   
 Então('estarei registrado Correct Redação') do
+  @Registro.LoginAdm()
   print("Passo 3\n")
 end
