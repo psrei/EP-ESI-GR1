@@ -3,10 +3,10 @@ class Registro
 
     #protótipo pré-desenvolvimento
 
-    #element :campoNome , "teste"
-    #element :campoSenha, "teste"
+    #element :campoNome , "."
+    #element :campoSenha, "."
 
-    def LoginAdm()
+    def Registrar()
         #campoNome.set CONFIG["usuarios"]["adm"]
         #campoSenha.set CONFIG["usuarios"]["admSenha"]
     end
