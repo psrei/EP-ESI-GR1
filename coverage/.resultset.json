@@ -1,66 +1,774 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/controllers/application_controller.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/application.rb": {
         "lines": [
           1,
-          null
-        ]
-      },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/helpers/application_helper.rb": {
-        "lines": [
+          null,
           1,
-          null
-        ]
-      },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/jobs/application_job.rb": {
-        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
           1,
           null,
           null,
           null,
           null,
           null,
-          null
-        ]
-      },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/mailers/application_mailer.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/channel.rb": {
-        "lines": [
-          1,
-          1,
+          null,
+          null,
+          null,
           null,
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/connection.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/boot.rb": {
         "lines": [
           1,
+          null,
           1,
+          1
+        ]
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environment.rb": {
+        "lines": [
+          null,
+          0,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/development.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/production.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/test.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
           null,
           null
-        ]
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/new_framework_defaults.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/permissions_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/session_store.rb": {
+        "lines": [
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/puma.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/routes.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/spring.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/alunos_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/redacoes_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/db/seeds.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/helpers/alunos_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/models/aluno.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1665621067
+    "timestamp": 1667869896
   },
   "RSpec": {
     "coverage": {
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/channel.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
           0,
@@ -70,7 +778,7 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/connection.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/channels/application_cable/connection.rb": {
         "lines": [
           0,
           0,
@@ -80,7 +788,7 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/controllers/application_controller.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/controllers/application_controller.rb": {
         "lines": [
           0,
           0
@@ -88,7 +796,7 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/helpers/application_helper.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/helpers/application_helper.rb": {
         "lines": [
           0,
           0
@@ -96,7 +804,7 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/jobs/application_job.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/jobs/application_job.rb": {
         "lines": [
           0,
           null,
@@ -109,7 +817,7 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/mailers/application_mailer.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/mailers/application_mailer.rb": {
         "lines": [
           0,
           0,
@@ -119,7 +827,698 @@
         "branches": {
         }
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/models/application_record.rb": {
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/application.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/boot.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environment.rb": {
+        "lines": [
+          null,
+          0,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/development.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/production.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/environments/test.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/new_framework_defaults.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/permissions_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/session_store.rb": {
+        "lines": [
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/puma.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/routes.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/config/spring.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/alunos_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/controllers/redacoes_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/db/seeds.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/helpers/alunos_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/models/aluno.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/ubuntu/environment/repository/EP-ESI-GR1/app/models/application_record.rb": {
         "lines": [
           0,
           0,
@@ -129,6 +1528,6 @@
         }
       }
     },
-    "timestamp": 1665621073
+    "timestamp": 1667868276
   }
 }
