@@ -25,15 +25,24 @@ end
   end
   
   Entao('deverei ver a redacao na página de listagem de redacoes') do
-    pending # Write code here that turns the phrase above into concrete actions
+    expect(page).to have_content('No meio do caminho tinha uma pedra
+                                Tinha uma pedra no meio do caminho
+                                Tinha uma pedra
+                                No meio do caminho tinha uma pedra
+                                Nunca me esquecerei desse acontecimento
+                                Na vida de minhas retinas tão fatigadas
+                                Nunca me esquecerei que no meio do caminho
+                                Tinha uma pedra
+                                Tinha uma pedra no meio do caminho
+                                No meio do caminho tinha uma pedra.')
   end
   
   Quando('nao preencher redacao com o texto') do
-    pending # Write code here that turns the phrase above into concrete actions
+    fill_in string, :with => ""
   end
   
-  Entao('deverei ver uma mensagem de erro sobre obrigatoriedade do texto') do
-    pending # Write code here that turns the phrase above into concrete actions
+  Entao('deverei ver uma mensagem de erro {É necessário inserir um texto no campo redação} sobre obrigatoriedade do texto') do |string|
+    expect(page).to have_content(string)
   end
   
   Quando('preencho o campo de redacao com um texto inválido') do
