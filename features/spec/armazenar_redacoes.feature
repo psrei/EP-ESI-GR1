@@ -1,5 +1,6 @@
 #language: pt
 
+@armazenamento_redacoes
 Funcionalidade: Armazenar redacoes
 Como administrador
 Para que eu possa armazenar a redação de um aluno

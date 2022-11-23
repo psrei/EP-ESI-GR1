@@ -1,4 +1,4 @@
-class RedacaoController < ApplicationController
+class RedacoesController < ApplicationController
     def new
         @redacao = Redacao.new
     end

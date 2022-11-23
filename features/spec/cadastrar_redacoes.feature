@@ -1,5 +1,6 @@
 #language: pt
 
+@cadastro_redacoes
 Funcionalidade: Cadastrar redacoes
 Como administrador
 Para que eu possa registrar a redação de um aluno
