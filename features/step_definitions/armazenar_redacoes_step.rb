@@ -1,5 +1,5 @@
 Dado('que estou na página de redacoes salvas') do
-    visit 'redacoes/view'
+    visit 'redacao/view'
   end
   
   Quando('clico em visualizar redacoes') do

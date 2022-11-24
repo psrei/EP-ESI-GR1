@@ -2,7 +2,7 @@ Dado('que estou na página de cadastro de redação') do
     visit '/redacao/new'
 end
   
-  Quando('preencho o campo {Redção} com {Texto}') do |string, string2|
+  Quando('preencho o campo {Redação} com {Texto}') do |string, string2|
     fill_in string, :with => string2  
   end
   

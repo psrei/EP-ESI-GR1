@@ -20,7 +20,7 @@ class BdrController < ApplicationController
 
   private
   def bdr_params
-    params.require(:bdr).permit(:aluno, :redacao)
+    params.require(:bdr).permit(:bdr, :redacao)
   end
 
 end
