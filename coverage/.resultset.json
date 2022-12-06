@@ -116,26 +116,22 @@
       },
       "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          1,
+          null,
+          null
+        ]
       },
       "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1669254896
+    "timestamp": 1670369074
   },
   "RSpec": {
     "coverage": {
