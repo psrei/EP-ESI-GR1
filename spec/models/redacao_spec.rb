@@ -19,7 +19,6 @@ RSpec.describe Redacao, type: :model do
   it 'invalido com caracteres estranhos' do
     r = Redacao.new
     r.texto= "БГДЕЖИ ЛП  ѸФ  ЦЧШЩꙖѦ."
-    expect(a).not_to be_valid
-    
+    expect(r).not_to be_valid
   end
 end
