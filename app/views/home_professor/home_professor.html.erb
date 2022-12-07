@@ -1,0 +1,32 @@
+<head>
+    <<h1>
+        <strong>Correct</strong>
+        Ajude no caminho para milhares de alunos realizarem seu sonho!
+        <!-- 
+            TODO:
+                botão home
+        -->
+    </h1>
+</head>
+
+<body>
+    <h2>
+        Bem vindo <%= @usuario.nome %>!
+    </h2>
+    
+    <p>
+        <h2>
+            @redacao.count (: conditions => redacao.corrijido_por = usuario.nome) 
+        </h2>
+    </p>
+    
+    <p>
+        <h2>
+            <%= link_to 'Corrija uma redação agora', @correcao %>
+        </h2>
+    </p>
+</body>
+
+<<footer>
+    <strong>Correct</strong>
+</footer>
