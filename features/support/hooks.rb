@@ -1,8 +1,8 @@
-Before do
-    @Registro = Registro.new
+#Before do
+#    @Registro = Registro.new
 
 
-end
+#end
 
 #After do |scenario|
 #    scenario_name = scenario.name.gsub(/\s+/,'').tr('/','')

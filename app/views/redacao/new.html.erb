@@ -11,7 +11,7 @@
     </ul>
   </div>
 <% end %>
-<%= form_with scope: :redacao, url: alunos_path, local: true do |form| %>
+<%= form_with scope: :redacao, url: redacao_path, local: true do |form| %>
   <p>
     <%= form.label :redacao %><br>
     <%= form.text_field :redacao %>
