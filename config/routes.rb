@@ -19,3 +19,8 @@ Rails.application.routes.draw do
     post '/logout', to: 'sessions#destroy'
     get '/logout', to: 'sessions#destroy'
 end
+
+Rails.application.routes.draw do
+    resources :editar, only: [:new, :create, :edit, :update, :show, :destroy]
+    root 'editar#new'
+end
