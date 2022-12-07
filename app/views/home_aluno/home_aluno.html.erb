@@ -1,0 +1,29 @@
+<head>
+    <<h1>
+        <strong>Correct</strong>
+        Escreva uma redação hoje
+    </h1>
+</head>
+
+<body>
+    <h2>
+        Bem vindo <%= @usuario.nome %>!
+    </h2>
+    
+    <p>
+        <h2>
+            @redacao.count (: conditions => redacao.aluno = usuario.nome) 
+        </h2>
+    </p>
+    
+    <p>
+        <h2>
+            <%= link_to 'Escreva uma redação agora', @redacao %>
+        </h2>
+    </p>
+    
+</body>
+
+<<footer>
+    <strong>Correct</strong>
+</footer>
