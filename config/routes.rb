@@ -1,26 +1,15 @@
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
-
 Rails.application.routes.draw do
-    resources :redacao, only: [:new, :create, :edit, :update, :show, :destroy]
-    root 'redacao#new'
-end
+  
+  root to: "essays#index"
 
-Rails.application.routes.draw do
-    resources :bdr, only: [:edit, :update, :show, :destroy]
-    #root 'bdr#view'
-end
+  get "/signup", to: "users#new"
+  post "/signup", to: "users#create"
 
-Rails.application.routes.draw do
-    #root 'sessions#home', as: nil
-    resources :users, only: [:new, :create, :edit, :update, :show, :destroy]
+  get "/login", to: "sessions#new"
+  post "/login", to: "sessions#create"
+  delete "/logout", to: "sessions#destroy"
 
-    get '/login', to: 'sessions#login'
-    post '/login', to: 'sessions#create'
-    post '/logout', to: 'sessions#destroy'
-    get '/logout', to: 'sessions#destroy'
-end
-
-Rails.application.routes.draw do
-    resources :editar, only: [:new, :create, :edit, :update, :show, :destroy]
-    root 'editar#new'
+  resources :essays, only: [:index, :new, :create]
+  resources :teachers, only: [:index, :show, :update]
+  resources :users, only: [:index, :new, :create]
 end
