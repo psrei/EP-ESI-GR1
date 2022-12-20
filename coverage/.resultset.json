@@ -1,19 +1,77 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/controllers/application_controller.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/helpers/application_helper.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/jobs/application_job.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/bdr_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/redacao_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/jobs/application_job.rb": {
         "lines": [
           1,
           null,
@@ -24,7 +82,7 @@
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/mailers/application_mailer.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/mailers/application_mailer.rb": {
         "lines": [
           1,
           1,
@@ -32,14 +90,31 @@
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/models/application_record.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/channel.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/bdr.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/redacao.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
         "lines": [
           1,
           1,
@@ -47,7 +122,7 @@
           null
         ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/connection.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
         "lines": [
           1,
           1,
@@ -56,79 +131,140 @@
         ]
       }
     },
-    "timestamp": 1665621067
+    "timestamp": 1670374387
   },
   "RSpec": {
     "coverage": {
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/channel.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/application_controller.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/channels/application_cable/connection.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/helpers/application_helper.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/controllers/application_controller.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/bdr_controller.rb": {
         "lines": [
+          1,
+          null,
+          1,
           0,
-          0
-        ],
-        "branches": {
-        }
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/helpers/application_helper.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/controllers/redacao_controller.rb": {
         "lines": [
+          1,
+          1,
           0,
-          0
-        ],
-        "branches": {
-        }
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/jobs/application_job.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/jobs/application_job.rb": {
         "lines": [
-          0,
+          1,
           null,
           null,
           null,
           null,
           null,
-          0
-        ],
-        "branches": {
-        }
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/mailers/application_mailer.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/mailers/application_mailer.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          1,
+          1,
+          null
+        ]
       },
-      "/home/reinaldoneto/Documentos/ESI/EP-ESI/app/models/application_record.rb": {
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/application_record.rb": {
         "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/bdr.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/models/redacao.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1665621073
+    "timestamp": 1670373089
   }
 }

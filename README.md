@@ -13,7 +13,7 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/psrei/EP-ESI-GR
 
 Heroku: https://correct-redacao.herokuapp.com/
 
-Pivotal Tracker: https://www.pivotaltracker.com/invitations/welcome?invitation_guid=c7d52db2c1c78cdbc03d920633a4de64
+Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2603043
 
 ## Sobre o Repositório
 
@@ -30,7 +30,7 @@ Os integrantes do grupo são os alunos de bacharel em Sistemas da Informação -
  ## Descrição do Software
  
  Nosso software visa implementar uma plataforma na qual alunos possam submeter redações a serem corrigidas por professores corretores parceiros da plataforma com o 
- objetivo de treinar estes os alunos para os vestibulares, com ênfase no ENEM, pois os corretores seguirão o método deste vestibular, já que é realizado em todo
+ objetivo de treinar estes alunos para os vestibulares, com ênfase no ENEM, pois os corretores seguirão o método deste vestibular, já que é realizado em todo
  território nacional. A redação do ENEM é caracterizada como um texto dissertativo-argumentativo que é avaliado em 5 competências: Domínio da escrita formal da língua
  portuguesa, Compreender o tema e não fugir do que é proposto, Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de
  um ponto de vista, Conhecimento dos mecanismos linguísticos necessários para a construção da argumentação e Intervenção com respeito aos direitos humanos.
