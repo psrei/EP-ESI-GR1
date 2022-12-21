@@ -1,0 +1,17 @@
+<h1>Welcome to the Essay App!</h1>
+
+<% if logged_in? %>
+  <p>Welcome, <%= current_user.name %></p>
+  <%= link_to "Logout", logout_path, method: :delete %>
+<% else %>
+  <p>Sign in or sign up to start writing essays!</p>
+  <%= link_to "Sign In", login_path %> | <%= link_to "Sign Up", signup_path %>
+<% end %>
+
+<h2>Recent Essays</h2>
+<% @essays.each do |essay| %>
+  <h3><%= link_to essay.title, essay_path(essay) %></h3>
+  <p><%= essay.description %></p>
+<% end %>
+
+<%= link_to "Write a new essay", new_essay_path %>
