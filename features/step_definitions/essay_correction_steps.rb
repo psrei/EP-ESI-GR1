@@ -6,7 +6,7 @@ Given("I am signed in as a teacher") do
 end
 
 Given("I am on the students page") do
-  visit("/login")
+  visit("/teachers/index")
 end
 
 When("I click on {string} for a student") do |link|
