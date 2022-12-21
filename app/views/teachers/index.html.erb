@@ -1,0 +1,6 @@
+<!-- views/teachers/index.html.erb -->
+<h1>Redações para correção</h1>
+
+<% @essays.each do |essay| %>
+  <p><%= link_to essay.title, teacher_path(essay) %></p>
+<% end %>
