@@ -10,10 +10,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_12_07_002751) do
+ActiveRecord::Schema[7.0].define(version: 2022_12_22_020940) do
   create_table "bdrs", force: :cascade do |t|
     t.string "bdr"
     t.string "redac"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "essays", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
