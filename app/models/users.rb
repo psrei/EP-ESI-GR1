@@ -6,4 +6,8 @@ class Users < ApplicationRecord
   def teacher?
     type == "Teacher"
   end
+
+  def student?
+    type == "Student"
+  end
 end
