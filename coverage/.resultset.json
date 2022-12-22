@@ -1,0 +1,336 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/essays_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/teachers_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/users_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/jobs/application_job.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/mailers/application_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/essay.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/users.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1671674088
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/channels/application_cable/channel.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/channels/application_cable/connection.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/essays_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/teachers_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/controllers/users_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/jobs/application_job.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/mailers/application_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/essay.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/reinaldoneto/Documentos/ESI/CORRECT/EP-ESI-GR1/app/models/users.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1671672927
+  }
+}
