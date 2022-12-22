@@ -5,18 +5,16 @@ Given("I am signed in as a teacher") do
   # username and password fields for a teacher account, and clicking the "Sign in" button.
 end
 
-Given("I am on the students page") do
+Given("I am on the teacher page") do
   visit("/teachers/index")
 end
 
 When("I click on {string} for a student") do |link|
-  # This step can be implemented by selecting a student from a list of students
-  # on the page and clicking the specified link.
+  fill_in(field, with: value)
 end
 
 When("I click on {string} for an essay") do |link|
-  # This step can be implemented by selecting an essay from a list of essays
-  # for a student on the page and clicking the specified link.
+  click_on(button)
 end
 
 Then("I should see {string}") do |message|
@@ -24,6 +22,5 @@ Then("I should see {string}") do |message|
 end
 
 Then("I should be on the student's show page") do
-  # This step can be implemented by checking that the current path is the show
-  # page for the selected student.
+  expect(current_path).to eq("/essays/index")
 end
